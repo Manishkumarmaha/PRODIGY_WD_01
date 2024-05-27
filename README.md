@@ -1,5 +1,5 @@
 # PRODIGY_WD_01
-web developement projects :-
-1.interactive navication menu
-2.stopwatch web application
-3.portfolio website
+web developement internship projects :-
+responsive landing page languages used:-
+HTML,CSS and JAVA SCRIPT firt task of web developementinternship.
+the internship is provided is "PRODIGY INFOTECH"
